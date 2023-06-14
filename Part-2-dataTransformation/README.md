@@ -2,7 +2,6 @@
 In this part you may find the instructions to orchestrate data transformations and integrations with an intelligence layer (a machine learning model) deployed over a Databricks endpoint to compute the price elasticity of demand for each product that has been recently purchased. 
 
 ![image](https://github.com/mongodb-industry-solutions/Real-Time-Pricing/blob/main/media/images/data-transformation.png)
-<<<<<<< HEAD
 
 <p align="center">
 <sub>
@@ -14,15 +13,10 @@ By doing so we orchestrate a fully App-driven analytics solution.
 
 <p align="center">
 <sub>
-Advantages against a traditional warehouse analytics solutions.
+Advantages to traditional warehouse analytics solutions.
 </sub>
 </p>
 
-=======
-By doing so we orchestrate a fully App-driven analytics solution.
-![image](media/images/app-driven-vs-traditional-analytics.jpg)
-Advantages against a traditional warehouse analytics solutions.
->>>>>>> f6e02a3 (Adding Part 2 and 3)
 
 ## Computing the purchase log
 Using the powerful MongoDB Atlas Aggregation Pipelines you can shape your data any way it is needed. We will shape the events in an aggregated view that will give us a “purchase log” so we can have historical prices and total quantities sold by product. This way we can feed a linear regression model to get the best possible fit of a line representing the relationship between price and units sold.
