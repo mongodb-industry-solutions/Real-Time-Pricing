@@ -36,5 +36,5 @@ In this folder you may find a test code to run on a Databricks notebook. The cod
 
 #### [Part 2: Data transformation](https://github.com/mongodb-industry-solutions/Real-Time-Pricing/blob/main/Part-2-dataTransformation)
 
-#### [Part 3: ML/AI](https://github.com/mongodb-industry-solutions/Real-Time-Pricing/blob/main/Part-3-ML/AI)
+#### [Part 3: ML/AI](https://github.com/mongodb-industry-solutions/Real-Time-Pricing/tree/main/Part-3-ML)
 
